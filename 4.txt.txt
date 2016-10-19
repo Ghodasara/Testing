@@ -1,3 +1,6 @@
 hello 4
 file 4 updated
-deleted and added line
+deleted 
+
+
+Updated file 4 from shell
